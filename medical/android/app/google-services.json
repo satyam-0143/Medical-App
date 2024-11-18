@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1007590642302",
+    "project_id": "push-notification-ad070",
+    "storage_bucket": "push-notification-ad070.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007590642302:android:0f98d24622eef748347e2f",
+        "android_client_info": {
+          "package_name": "com.simats.pulmonaryrehabilitation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDezxLY2Eq24r0gU4igad4eCypi6S-YP2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
